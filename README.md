@@ -4,6 +4,7 @@ Reduces energy consumption but also ensures sustainable and cost-effective netwo
 
 This project implements a reinforcement learning (RL) solution to optimize energy consumption in 5G networks. By dynamically switching between operational modes—**Normal Mode** and **Power-Saving Mode**—based on traffic load, the system ensures energy-efficient performance without compromising network reliability. The solution uses Q-learning, a popular RL algorithm, to train an agent to make optimal decisions for energy management.
 
+
 ## Features
 
 - **Custom 5G Environment**: Simulates a 5G network using the OpenAI Gym framework with mock traffic load data.
@@ -77,3 +78,11 @@ The system demonstrates a significant reduction in energy consumption by adaptin
 ## Acknowledgment
 
 Thanks to Dr. Bhupender Kumar for his invaluable guidance and support throughout this project. His expertise and insights have been instrumental in shaping the direction and execution of this work. We deeply appreciate his encouragement and mentorship, which have greatly contributed to the success of this study.
+
+## Team Members
+
+- **Param Prajapati** (202111066)  
+- **Prakhar Shukla** (202111067)  
+- **Shivam Mohit** (202111077)  
+- **Hiren Sinh** (202111079)  
+- **Unik Yadav** (202111083)  
